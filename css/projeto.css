@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    
+}
+body{
+  background-image: url(/img/warframeFundo.jpg);
+background-repeat: no-repeat;
+background-size: cover;  
+}
+.title{
+    color: white;
+}
+figure{
+    text-align: center;
+}
+
+
+footer{
+    color: white;
+    text-align:unset;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+.box1{
+    color: blue
+    ;
+    font-family: cursive;
+    
+}
+.box2{
+    color: greenyellow;
+    font-family: cursive;
+}
+

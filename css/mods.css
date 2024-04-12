@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+}
+figure{
+text-align: center;
+
+   
+}
+.box1{
+    color:white;
+    font-family: cursive;
+}
+.box2{
+    color: white;
+    font-family: cursive;
+}
+body{
+    background-image: url(../img/warframeModsFundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.room{
+    color: white;
+}
+.title{
+    color: white;
+    font-family: cursive;
+}
+footer{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img{
+    margin-top: 50%;
+}
+
+
+
+

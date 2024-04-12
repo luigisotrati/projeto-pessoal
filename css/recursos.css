@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-image: url(../img/warframerecursosfundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    color: white;
+    font-family: cursive;
+}
+figure{
+    text-align: center;
+}
+.box1{
+    color: white;
+    font-family: cursive;
+}
+.box2{
+    color: gold;
+    font-family: cursive;
+}
+.room{
+    color: white;
+}
+footer{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
